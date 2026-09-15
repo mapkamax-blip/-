@@ -1,0 +1,15 @@
+{
+  "name": "Карточка персонажа",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Показывает карточку персонажа всем игрокам; менять данные может только ГМ.",
+  "author": "Maxim",
+  "icon": "https://mapkamax-blip.github.io/-/charsheet-extension/icons/card.svg?v=1",
+  "action": {
+    "title": "Карточка персонажа",
+    "icon": "https://mapkamax-blip.github.io/-/charsheet-extension/icons/card.svg?v=1",
+    "popover": "https://mapkamax-blip.github.io/-/charsheet-extension/background.html?v=1",
+    "height": 1,
+    "width": 1
+  }
+}
