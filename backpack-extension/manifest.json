@@ -1,9 +1,0 @@
-{
-  "name": "Рюкзак игрока",
-  "version": "1.0.0",
-  "manifest_version": 1,
-  "description": "Рюкзак для токена персонажа: выбросить предмет на стол или ГМ кладёт предмет в рюкзак.",
-  "author": "Maxim",
-  "icon": "icons/backpack.svg",
-  "background_url": "background.html"
-}
