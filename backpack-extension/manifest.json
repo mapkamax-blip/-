@@ -1,9 +1,0 @@
-{
-  "name": "Рюкзак игрока",
-  "version": "1.0.0",
-  "manifest_version": 1,
-  "description": "Личный рюкзак у каждого токена персонажа: открыть, выбросить предмет на стол, а мастер может положить предмет со сцены прямо в рюкзак.",
-  "author": "Maxim",
-  "icon": "/icons/backpack.svg",
-  "background_url": "/background.html"
-}
